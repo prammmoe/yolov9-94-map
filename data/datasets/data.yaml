@@ -1,0 +1,13 @@
+train: ../data/datasets/train/images
+val: ../data/datasets/valid/images
+test: ../data/datasets/test/images
+
+nc: 4
+names: ['bus', 'car', 'motorcycle', 'truck']
+
+roboflow:
+  workspace: pram
+  project: vehicle-counting-flusm
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pram/vehicle-counting-flusm/dataset/1

@@ -1,0 +1,1 @@
+python train.py --workers 4 --device 0 --batch 16 --data data/datasets/data.yaml --img 640 --cfg models/detect/yolov9-e.yaml --weights 'yolov9e.pt' --name yolov9-e.pt --hyp hyp.scratch-high.yaml --min-items 0 --epochs 20 --close-mosaic 15

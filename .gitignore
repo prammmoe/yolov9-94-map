@@ -1,0 +1,17 @@
+yolov9-e.pt
+runs/detect/exp5/test3.mp4
+output.mp4
+output_counting.mp4
+test3.mp4
+video_sec.mp4
+video.mp4
+runs/detect/exp4/video_sec.mp4
+runs/detect/exp3/video.mp4
+cctv_jlagran.mp4
+cctv_tunjung.mp4
+output_jlagran.mp4
+outvid.mp4
+runs/train/exp/weights/*
+runs/train/exp/weights/best.pt
+runs/train/exp/weights/last.pt
+yolov9_object_tracking.ipynb
