@@ -335,3 +335,7 @@ python object_tracking.py --video ./data/test.mp4 --output ./output/output.mp4 -
 
 # Run tracking on a video with burring certain objects (set blur_id flag to 0 for person)
 python object_tracking.py --video ./data/test.mp4 --output ./output/output.mp4 --blur_id 0
+
+## TODO
+
+ - Download links for the weights and video inference
